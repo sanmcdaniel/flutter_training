@@ -1,4 +1,4 @@
-# training_flutter_krungsri
+# training_flutter
 
 A new Flutter application.
 
